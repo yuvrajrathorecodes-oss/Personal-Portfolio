@@ -20,13 +20,13 @@ export const PERSONAL_INFO = {
 export const SOCIAL_LINKS = [
   {
     name: "GitHub",
-    url: "https://github.com/yuvrajrathore",
+    url: "https://github.com/yuvrajrathorecodes-oss",
     icon: "FaGithub",
     color: "#CBD5C0"
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/yuvrajrathore",
+    url: "https://www.linkedin.com/in/yuvraj-rathore-b203b6426/",
     icon: "FaLinkedinIn",
     color: "#F4B044"
   },
@@ -159,7 +159,7 @@ export const PROJECTS = [
     image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&auto=format&fit=crop&q=80",
     tech: ["JavaScript", "HTML5", "CSS3", "LocalStorage", "Responsive UI"],
     liveUrl: "#",
-    githubUrl: "https://github.com/yuvrajrathore",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: true,
     highlights: ["Theme Switcher", "Live Task Filter & Search", "Persistent Storage", "Smooth Animations"]
   },
@@ -172,20 +172,20 @@ export const PROJECTS = [
     image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&auto=format&fit=crop&q=80",
     tech: ["HTML5", "CSS3", "JavaScript", "Canvas Animations", "Audio FX"],
     liveUrl: "#",
-    githubUrl: "https://github.com/yuvrajrathore",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: true,
     highlights: ["Interactive Chat Sequence", "Evasive Button Motion", "Heart Particle Spawner", "Mobile-Optimized"]
   },
   {
     id: 3,
-    title: "Spotify Clone",
+    title: "E-Commerce Website",
     category: "Web Application",
-    tag: "Audio Player & UI",
-    description: "A responsive music streaming web application clone mirroring Spotify's signature dark aesthetic. Features an interactive audio player bar, track playlists, seek bar control, volume sliders, and album art layouts.",
+    tag: "E-Commerce & UI",
+    description: "A fully responsive e-commerce web application featuring product listings, dynamic cart management, and a smooth checkout flow — built with clean UI/UX and optimized for performance across devices",
     image: "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=800&auto=format&fit=crop&q=80",
     tech: ["JavaScript", "HTML5", "CSS3", "Web Audio API", "Flexbox/Grid"],
-    liveUrl: "#",
-    githubUrl: "https://github.com/yuvrajrathore",
+    liveUrl: "https://modern-ecommerce-8nl3slxcm-yuvrajrathorecodes-3942s-projects.vercel.app/",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: true,
     highlights: ["Interactive Audio Player", "Volume & Timeline Sliders", "Playlist Navigation", "Dark Theme UI"]
   },
@@ -198,20 +198,20 @@ export const PROJECTS = [
     image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800&auto=format&fit=crop&q=80",
     tech: ["React", "Tailwind CSS", "Framer Motion", "UI Design"],
     liveUrl: "#",
-    githubUrl: "https://github.com/yuvrajrathore",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: false,
     highlights: ["Minimalist Layout", "Smooth Transitions", "Responsive Viewports", "Custom Typography"]
   },
   {
     id: 5,
-    title: "Personal Portfolio Website",
+    title: "3D Personal Portfolio Website",
     category: "Full Stack / Web",
     tag: "Interactive 3D & GSAP",
     description: "A single-page developer portfolio featuring React Three Fiber 3D hero visualization, GSAP scroll-triggered entrance animations, real-time 3D cursor tilt cards, and strict gold/burnt-orange/dark-blue thematic branding.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=80",
     tech: ["React", "Three.js", "R3F", "Tailwind CSS", "GSAP"],
-    liveUrl: "#",
-    githubUrl: "https://github.com/yuvrajrathore",
+    liveUrl: "https://3-d-developer-portfolio-v1.vercel.app/",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: true,
     highlights: ["3D Hero Geometry", "Real-Time Tilt Cards", "Radial Progress Dials", "Strict Palette"]
   },
@@ -224,7 +224,7 @@ export const PROJECTS = [
     image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop&q=80",
     tech: ["Python", "ESP32 / IoT", "WebSockets", "Telemetry UI"],
     liveUrl: null,
-    githubUrl: "https://github.com/yuvrajrathore",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: false,
     isPlaceholder: true,
     highlights: ["Microcontroller Telemetry", "Real-Time Graphing", "Python Backend", "Coming Soon"]
@@ -238,7 +238,7 @@ export const PROJECTS = [
     image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
     tech: ["Python", "React", "AI APIs", "Creative Design"],
     liveUrl: null,
-    githubUrl: "https://github.com/yuvrajrathore",
+    githubUrl: "https://github.com/yuvrajrathorecodes-oss",
     featured: false,
     isPlaceholder: true,
     highlights: ["Automated Layouts", "Image Enhancement", "Workflow Automation", "Coming Soon"]
